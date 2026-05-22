@@ -1,11 +1,12 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "thephpx/analytics",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "ThePhpX Analytics — companion dashboard for the thephpx/matrix package.",
     "keywords": [
-        "laravel",
-        "framework"
+        "thephpx",
+        "analytics",
+        "laravel"
     ],
     "license": "MIT",
     "require": {
